@@ -1,7 +1,7 @@
 ![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
 
 
-# Clima ☁ //in progress..not finished
+# Clima ☁
 
 a weather app inspired by the beautiful designs made by [Olia Gozha](https://dribbble.com/shots/4663154-). 
 
